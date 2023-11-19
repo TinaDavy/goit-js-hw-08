@@ -35,20 +35,4 @@ function handleSubmit(event){
     form.reset();
 };
 
-//     if(event.target.name === "email"){
-//         inputValue.email = event.target.value
-//         const emailValue = JSON.stringify(inputValue);
-//         localStorage.setItem(keyName, emailValue);
-//     };
 
-//     if(event.target.name === "message"){
-//         inputValue.message = event.target.value
-//         const messageValue = JSON.stringify(inputValue);
-//         localStorage.setItem(keyName, messageValue);
-//     };
-
-//     console.log(inputValue);
-
-
-
-// console.log(form)
